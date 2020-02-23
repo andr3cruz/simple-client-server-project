@@ -1,0 +1,18 @@
+David Pinto up201704300@fc.up.pt 201704300
+Andre Cruz  up201705768@fc.up.pt 201705768
+
+Aspectos a ter em conta:
+
+ -Todos os ficheiros nao devem ser apagados,alterados ou movidos  por outros meios que não o programa servidor;
+
+ Servidor & Cliente:
+	-Todos os users têm um tipo;
+	-Tipos:
+		-1-user pendente:
+		-2-user comum;
+		-3-user admin;
+		-4-user block;
+	-Devem ser seguidos os passos que são indicados pelo servidor e pelo cliente;
+	-Nos menus apenas devem ser inseridos digitos;
+	-Os topicos devem ser criados apenas com uma unica palavra.
+
